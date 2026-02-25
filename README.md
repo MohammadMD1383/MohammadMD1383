@@ -6,11 +6,13 @@
 * Java *
 * Kotlin *
 * Javascript/Typescript *
-* PHP *
 * Python
 * V
-* Rust
 * Groovy
 * Go
 
 > *: those what I have more experience with
+
+---
+
+Working at PartSoftwareGroup
